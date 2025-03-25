@@ -30,5 +30,5 @@ if __name__ == "__main__":
     weather_data = get_weather(CITY_NAME, API_KEY)
     display_weather(weather_data)
 
-#"lat":7.7756663,"lon":-72.2214154
+#"lat":7.7756663,"lon":-72.2214154 and other
 #https://api.openweathermap.org/data/2.5/weather?lat=7.7756663&lon=-72.2214154&appid=6af1162c89e539825d80e6d6af57fa4b
